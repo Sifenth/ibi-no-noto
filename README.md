@@ -4,6 +4,8 @@ Ibi no Noto is a small editorial journal built with Next.js. It publishes notes 
 everyday life and Japanese learning, with a responsive reading experience, light/dark
 theme toggle, post archive, and image support.
 
+**Live site:** <https://ibinonoto.com>
+
 ## How it works
 
 - **Public journal:** Published posts are loaded from Supabase and shown on the home
